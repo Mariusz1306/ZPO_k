@@ -1,4 +1,4 @@
-public class Knight {
+public class Knight { //w klasie knight przechowujemy obecną pozycję konia
     public int x;
     public int y;
 
